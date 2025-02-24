@@ -1,0 +1,1 @@
+document.querySelector('p').textContent = 'こんにちは、世界！！';
